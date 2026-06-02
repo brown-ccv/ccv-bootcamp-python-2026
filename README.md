@@ -12,7 +12,7 @@ This short introduction to Python will teach fundamentals by way of practical ap
 ### Intro to Python Programming II: Packages, Environments, Tabular Data
 This session will focus on the management of research workflows and analyzing tabular data using the pandas library. This session introduces the essentials of 3rd-party packages and virtual environments, ensuring your analysis remains stable and reproducible across different machines. Through hands-on exercises, you will learn the basics of the DataFrame object to perform exploratory data analysis, data cleaning, and plotting.
 * **Slides:** [Google Slides](https://docs.google.com/presentation/d/1n9K3U2KNPFbhwbdMD1nouRIR1pIiTx1NyD8Jx8xI0hg/edit?usp=sharing)
-* **Interactive Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badhttps://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/your-workshop-repo/blob/main/notebooks/part2_eda.ipynbhttps://colab.research.google.com/github/brown-ccv/ccv-bootcamp-python-2026/blob/main/notebooks/python_programming_part_2.ipynb)
+* **Interactive Notebook:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/your-workshop-repo/blob/main/notebooks/part2_eda.ipynbhttps://colab.research.google.com/github/brown-ccv/ccv-bootcamp-python-2026/blob/main/notebooks/python_programming_part_2.ipynb)
 
 ---
 
